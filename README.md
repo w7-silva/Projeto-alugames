@@ -45,3 +45,21 @@ Durante o desenvolvimento deste projeto, foram abordados os seguintes conceitos:
 - Alterar o texto de um elemento da página, via propriedade textContent.
 
 - Declarar um bloco condicional if/else, para implementar a funcionalidade de alterar o status de um jogo.
+
+# 📌 Como executar o projeto
+
+Clone o repositório:
+
+- git clone https://github.com/seu-usuario/alugames.git
+
+Acesse o diretório do projeto:
+
+- cd alugames
+
+Abra o arquivo index.html no navegador.
+
+# 📄 Licença
+
+Este projeto foi desenvolvido apenas para fins educacionais.
+
+Feito com ❤️  durante os estudos na Alura.
