@@ -20,8 +20,8 @@ AluGames é um projeto desenvolvido durante um curso da Alura, onde aprendemos a
 
 - JavaScript
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 
 # 📚 O que foi aprendido
@@ -50,11 +50,11 @@ Durante o desenvolvimento deste projeto, foram abordados os seguintes conceitos:
 
 Clone o repositório:
 
-- git clone https://github.com/seu-usuario/alugames.git
+- git clone https://github.com/w7-silva/Projeto-alugames.git
 
 Acesse o diretório do projeto:
 
-- cd alugames
+- cd Projeto-alugames
 
 Abra o arquivo index.html no navegador.
 
